@@ -30,10 +30,6 @@ module.exports = {
                 vendor: {
                     name: "vendor",
                     chunks: "initial"
-                },
-                commons: {
-                    name: "commons",
-                    chunks: "initial"
                 }
             }
         }
